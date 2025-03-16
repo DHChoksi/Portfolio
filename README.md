@@ -44,10 +44,12 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 ## Projects
 
 ### InterGalactic Ranger
-- Directed the design, development, and QA processes for a VR game using Unity and C#. Led a team of 4 students for Directed Research, focusing on integrating immersive VR elements.
+![InterGalactic Ranger Gameplay](https://youtube.com/embed/VIDEO_ID "InterGalactic Ranger Gameplay Preview")
+Directed the design, development, and QA processes for a VR game using Unity and C#. Led a team of 4 students for Directed Research, focusing on integrating immersive VR elements.
 
 ### Underworld’s Downfall
-- Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
+![Underworld’s Downfall Gameplay](https://youtube.com/embed/VIDEO_ID "Underworld’s Downfall Gameplay Preview")
+Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
 
 ### Baby Joy Joy Music & Baby Joy Boy Jack in the Box
 - Developed engaging educational games for children using Unity C#, which saw successful deployments and increased engagement on digital platforms.
@@ -69,4 +71,4 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 - **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/dhchoksi](https://www.linkedin.com/in/dhchoksi)
 - **Portfolio:** [https://dhruvichoksi16.wixsite.com/dhcportfolio](https://dhruvichoksi16.wixsite.com/dhcportfolio)
-- **All Projects:** [Google Drive Link](https://drive.google.com/drive/folders/1QNvySHfHdSh-OIb9eklbbx4qNHcgw0jn?usp=sharing)
+- **Projects:** [Google Drive Link](https://drive.google.com/drive/folders/1QNvySHfHdSh-OIb9eklbbx4qNHcgw0jn?usp=sharing)
