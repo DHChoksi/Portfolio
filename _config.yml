@@ -1,5 +1,10 @@
 title: Dhruvi H. Choksi
+# Uncomment the following lines if you have a logo and description to include in your site
 #logo: /assets/img/dhc_headshot.png
-#description: Add caption
+#description: "Your captivating caption here"
+
+# Enable or disable the download button on your site
 show_downloads: true
-theme: theme-time-machine
+
+# Set the theme for your site
+theme: jekyll-theme-time-machine
