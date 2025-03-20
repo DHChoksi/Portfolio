@@ -19,7 +19,7 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 - **Period:** January 2025 – Present
 - **Achievements:**
   - Developed comprehensive documentation for the Artec Leo 3D Scanner and Artec Studio 19, enhancing 3D scanning accuracy for VR training simulations.
-  - Prototyping an interactive VR simulation by applying industry best practices in immersive technology.
+  - Prototyping an interactive VR simulations by applying industry best practices in immersive technology.
 
 ### BooBoo Games
 - **Role:** Project Manager, Level Designer
@@ -44,14 +44,19 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 ## Projects
 
 ### InterGalactic Ranger
-![InterGalactic Ranger Gameplay](https://youtube.com/embed/VIDEO_ID "InterGalactic Ranger Gameplay Preview")
+![InterGalactic Ranger Core Gameplay Prototype](https://youtu.be/1G6X4V2wHtE)
+![InterGalactic Ranger Core Gameplay](https://youtu.be/1G6X4V2wHtE)
 Directed the design, development, and QA processes for a VR game using Unity and C#. Led a team of 4 students for Directed Research, focusing on integrating immersive VR elements.
 
+### VR Introduction 
+![VR Interaction Introduction]()
+Embark on an engaging introductory VR experience designed to introduce you to fundamental mechanics and movement techniques, ensuring a captivating start to your journey in virtual reality.
+
 ### Underworld’s Downfall
-![Underworld’s Downfall Gameplay](https://youtube.com/embed/VIDEO_ID "Underworld’s Downfall Gameplay Preview")
+![Underworld’s Downfall Gameplay](https://drive.google.com/file/d/19OU6uKYBzinFdpvOTbDXs-2qpBsL-xRD/view?usp=drivesdk)
 Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
 
-### Baby Joy Joy Music & Baby Joy Boy Jack in the Box
+### Baby Joy Joy Music & Baby Joy Joy Jack in the Box
 - Developed engaging educational games for children using Unity C#, which saw successful deployments and increased engagement on digital platforms.
 
 ### Obesity Classification
@@ -70,5 +75,5 @@ Contributed to game mechanics, FX, and level design for a top-down shooter game 
 ## Contact & Links
 - **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/dhchoksi](https://www.linkedin.com/in/dhchoksi)
-- **Portfolio:** [https://dhruvichoksi16.wixsite.com/dhcportfolio](https://dhruvichoksi16.wixsite.com/dhcportfolio)
 - **Projects:** [Google Drive Link](https://drive.google.com/drive/folders/1QNvySHfHdSh-OIb9eklbbx4qNHcgw0jn?usp=sharing)
+- **Resume:** [Google Drive Link]
