@@ -54,7 +54,6 @@ Embark on an engaging introductory VR experience designed to introduce you to fu
 
 ### Underworld’s Downfall
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)
-[![Underworld’s Downfall Gameplay](https://drive.google.com/file/d/19OU6uKYBzinFdpvOTbDXs-2qpBsL-xRD/view?usp=drivesdk)]
 Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
 
 ### Baby Joy Joy Music & Baby Joy Joy Jack in the Box
