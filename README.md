@@ -53,8 +53,8 @@ Directed the design, development, and QA processes for a VR game using Unity and
 Embark on an engaging introductory VR experience designed to introduce you to fundamental mechanics and movement techniques, ensuring a captivating start to your journey in virtual reality.
 
 ### Underworld’s Downfall
+- Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)
-Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
 
 ### Baby Joy Joy Music & Baby Joy Joy Jack in the Box
 - Developed engaging educational games for children using Unity C#, which saw successful deployments and increased engagement on digital platforms.
