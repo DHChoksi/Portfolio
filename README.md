@@ -68,7 +68,7 @@ Embark on an engaging introductory VR experience designed to introduce you to fu
 
 ### Obesity Classification
 - Applied machine learning algorithms and data mining techniques to classify obesity levels from a dataset with 16+ attributes.
-- [Download My Project](https://github.com/DHChoksi/Portfolio/raw/main/assets/ObeysityClassification-main.zip).
+- [Download My Project](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip).
 
 ### BeatFusion
 - Developing a Java-based, AI-driven gaming application that dynamically combines music with gameplay mechanics.
