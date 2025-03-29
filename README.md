@@ -59,7 +59,7 @@ Contributed to game mechanics, FX, and level design for a top-down shooter game 
 
 ### Baby Joy Joy Music & Baby Joy Joy Jack in the Box
 - Developed engaging educational games for children using Unity C#, which saw successful deployments and increased engagement on digital platforms.
-- [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/video.mp4)
+- [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
 
 ### Obesity Classification
 - Applied machine learning algorithms and data mining techniques to classify obesity levels from a dataset with 16+ attributes.
