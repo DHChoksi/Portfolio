@@ -53,7 +53,7 @@ Directed the design, development, and QA processes for a VR game using Unity and
 Embark on an engaging introductory VR experience designed to introduce you to fundamental mechanics and movement techniques, ensuring a captivating start to your journey in virtual reality.
 
 ### Underworld’s Downfall
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=1G6X4V2wHtE)
+[![Watch the video](https://img.youtube.com/vi/1G6X4V2wHtE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1G6X4V2wHtE)
 ![Underworld’s Downfall Gameplay](https://drive.google.com/file/d/19OU6uKYBzinFdpvOTbDXs-2qpBsL-xRD/view?usp=drivesdk)
 Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
 
