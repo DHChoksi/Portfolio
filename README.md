@@ -61,6 +61,13 @@ Contributed to game mechanics, FX, and level design for a top-down shooter game 
 - Developed engaging educational games for children using Unity C#, which saw successful deployments and increased engagement on digital platforms.
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
 
+### Match the card
+- [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4)
+
+
+### Maze Runner
+- [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4)
+
 ### Obesity Classification
 - Applied machine learning algorithms and data mining techniques to classify obesity levels from a dataset with 16+ attributes.
 
