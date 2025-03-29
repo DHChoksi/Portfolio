@@ -44,9 +44,8 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 ## Projects
 
 ### InterGalactic Ranger
-![InterGalactic Ranger Core Gameplay]
-- [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)
 Directed the design, development, and QA processes for a VR game using Unity and C#. Led a team of 4 students for Directed Research, focusing on integrating immersive VR elements.
+- [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)
 
 ### VR Introduction 
 ![VR Interaction Introduction]()
