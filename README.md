@@ -48,7 +48,6 @@ Directed the design, development, and QA processes for a VR game using Unity and
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)
 
 ### VR Introduction 
-![VR Interaction Introduction]()
 Embark on an engaging introductory VR experience designed to introduce you to fundamental mechanics and movement techniques, ensuring a captivating start to your journey in virtual reality.
 
 ### Underworld’s Downfall
