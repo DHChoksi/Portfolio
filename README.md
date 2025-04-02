@@ -74,13 +74,14 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 
 ### Obesity Classification
 - Applied machine learning algorithms and data mining techniques to classify obesity levels from a dataset with 16+ attributes.
-- [Download My Project](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip).
+- [![View Source](https://img.shields.io/badge/Download-Source_Code-blue?logo=github)](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
 
 ### BeatFusion
 - Developing a Java-based, AI-driven gaming application that dynamically combines music with gameplay mechanics.
 
 ### Vallabhi Jewelers
 - Developed a responsive frontend and built a chatroom with integrated video calling using the MEAN stack, enhancing customer interaction and support.
+- [![View Source](https://img.shields.io/badge/GoogleDrive-Source_Code-blue?logo=google-drive)](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
 
 ## Skills
 - **Languages & Tools:** Unity C#, Unreal Engine, Blender, JavaScript, C/C++, Python, Artec Leo 3D scanner, Artec Studio 19 
