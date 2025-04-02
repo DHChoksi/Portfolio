@@ -88,7 +88,10 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 - **Specialties:** Game Development, Virtual Reality, Augmented Reality, Web Development, Artec Leo 3D scanner and Artec Studio
 
 ## Contact & Links
-- **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/dhchoksi](https://www.linkedin.com/in/dhchoksi)
-- **Projects:** [Google Drive Link](https://drive.google.com/drive/folders/1msM910t1FX0q2dbO-GChQ9i07t6dP5x0?usp=sharing)
-- **Resume:** [Google Drive Link]
+## 📬 Contact & Links
+
+- 📧 **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)  
+- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dhchoksi)  
+- 🛠️ **Projects:** [![Google Drive](https://img.shields.io/badge/GoogleDrive-Projects-blue?logo=google-drive)](https://drive.google.com/drive/folders/1msM910t1FX0q2dbO-GChQ9i07t6dP5x0?usp=sharing)  
+- 📄 **Resume:** [![Resume](https://img.shields.io/badge/GoogleDrive-Resume-blue?logo=google-drive)](https://docs.google.com/document/d/13ItqFxINlQOiV6aQvgIGoNowjPDco8CaT5hn3Okpz9g/edit?usp=sharing)
+
