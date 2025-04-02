@@ -4,7 +4,8 @@ title: Dhruvi H. Choksi
 #description: "Your captivating caption here"
 
 # Enable or disable the download button on your site
-show_downloads: true
+show_downloads: false
 
 # Set the theme for your site
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
+
