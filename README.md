@@ -44,11 +44,11 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 ## Projects
 
 ### InterGalactic Ranger
-Directed the design, development, and QA processes for a VR game using Unity and C#. Led a team of 4 students for Directed Research, focusing on integrating immersive VR elements.
+- Directed the design, development, and QA processes for a VR game using Unity and C#. Led a team of 4 students for Directed Research, focusing on integrating immersive VR elements.
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)
 
-### VR Introduction 
-Embark on an engaging introductory VR experience designed to introduce you to fundamental mechanics and movement techniques, ensuring a captivating start to your journey in virtual reality.
+### VR Hand Interactions Tutorial 
+- Embark on an engaging introductory VR experience designed to introduce you to fundamental mechanics and movement techniques, ensuring a captivating journey in virtual reality.
 
 ### Underworld’s Downfall
 - Contributed to game mechanics, FX, and level design for a top-down shooter game with procedurally generated dungeons, enhancing player interaction and experience.
