@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/logo.png" alt="Logo" width="200"/>
+</p>
+
 # Portfolio
 
 Welcome to my professional portfolio on GitHub! Here you can find a comprehensive showcase of my skills, projects, and work experiences. Dive into each section to explore the depth of my expertise in game development, virtual reality, and software engineering.
