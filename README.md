@@ -60,10 +60,12 @@ Embark on an engaging introductory VR experience designed to introduce you to fu
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
 
 ### Match the card
+- Designed and developed a 2D card-matching game in Unity with fundamental gameplay logic and interactions.
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4)
 
 
 ### Maze Runner
+- Created a 3D AI-driven maze game in Unity using built-in primitive shapes and basic animations. Developed as part of gameplay and AI training exercises. 
 - [![Download Video](https://img.shields.io/badge/Download-Video-blue)](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4)
 
 ### Obesity Classification
@@ -77,8 +79,8 @@ Embark on an engaging introductory VR experience designed to introduce you to fu
 - Developed a responsive frontend and built a chatroom with integrated video calling using the MEAN stack, enhancing customer interaction and support.
 
 ## Skills
-- **Languages & Tools:** Unity C#, Unreal Engine, Blender, JavaScript, C/C++, Python
-- **Specialties:** Game Development, Virtual Reality, Augmented Reality, Web Development
+- **Languages & Tools:** Unity C#, Unreal Engine, Blender, JavaScript, C/C++, Python, Artec Leo 3D scanner, Artec Studio 19 
+- **Specialties:** Game Development, Virtual Reality, Augmented Reality, Web Development, Artec Leo 3D scanner and Artec Studio
 
 ## Contact & Links
 - **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)
