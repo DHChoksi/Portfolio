@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Assets/logo.jpg" alt="Logo" width="200"/>
+  <img src="/Assets/logo.png" alt="Logo" width="200"/>
 </p>
 
 # Portfolio
