@@ -30,7 +30,7 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 - **Period:** July 2022 – August 2023
 - **Achievements:**
   - Managed the delivery of 10 casual gaming titles for the GDC conference, enhancing cross-functional collaboration and ensuring bug-free deployments.
-  - Optimized workflows and enhanced testing methodologies for various gaming platforms using Unity and Unreal Engine.
+  - Optimized workflows and enhanced testing methodologies for various casual and hyper casual games using platforms like Unity and Unreal Engine.
 
 ### DesaniXR
 - **Role:** Senior Game Developer
