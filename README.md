@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="/Assets/logo.png" alt="Logo" width="200"/>
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 30px;">
+  <h1 style="margin: 0;">Dhruvi H. Choksi</h1>
+  <img src="/assets/logo.png" alt="Dhruvi Choksi" style="height: 80px; width: 80px; border-radius: 50%; object-fit: cover;">
+  <h1 style="margin: 0;">Portfolio</h1>
+</div>
+
 
 # Portfolio
 
