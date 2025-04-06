@@ -1,5 +1,5 @@
 <!-- Game & VR Portfolio Intro -->
-<h1 align="center">Dhruv H. Choksi</h1>
+<h1 align="center">Dhruvi H. Choksi</h1>
 <h3 align="center"><i>Game Development | Virtual Reality | Software Engineering</i></h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 
 ## 💼 Experience
 
-### 🧠 VR Research and Technology Intern  
+### 🕹️ VR Research and Technology Intern  
 **Delta Airlines**  
 📆 *Jan 2025 – Present*
 
@@ -47,7 +47,7 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 
 ---
 
-### 🕹️ Senior Game Developer  
+### 🧪 Senior Game Developer  
 **DesaniXR**  
 📆 *Dec 2021 – Mar 2022*
 
@@ -56,7 +56,7 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 
 ---
 
-### 🧪 Quality Analyst & Game Developer  
+### 🧠 Quality Analyst & Game Developer  
 **TimeLoop Technologies Pvt. Ltd.**  
 📆 *Nov 2020 – Dec 2021*
 
@@ -65,7 +65,7 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🌌 InterGalactic Ranger – Unity | VR
 - Led design and development of a Unity-based VR game for Directed Research
@@ -73,51 +73,42 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)  
 📁 [View Source](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
 
----
 
 ### ✋ VR Hand Interactions Tutorial – Unity | XR
 - Created a foundational tutorial exploring VR locomotion and interaction systems  
 📁 [View Source](https://drive.google.com/file/d/1jdIg_npAIipSH_69mVPNWzrZVjQ_qk_h/view?usp=sharing)
 
----
 
 ### 🧟 Underworld’s Downfall – Unity | Top-Down Shooter
 - Developed mechanics, FX, and level design for procedurally generated dungeons  
 🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4)  
 📁 [View Source](https://drive.google.com/file/d/1U7iosD7JtZHV6y5S5Jte_SgZIIF56ejO/view?usp=sharing)
 
----
 
 ### 👶 Baby Joy Joy Series – Unity | EdTech Games
 - Designed engaging games for young learners to support online educational content  
 🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
 
----
 
 ### 🃏 Match the Card – Unity | 2D Puzzle
 - Created a 2D memory card game with gameplay logic and smooth interactions  
 🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4)  
 📁 [View Source](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
 
----
 
 ### 🧭 Maze Runner – Unity | AI & Pathfinding
 - Built a 3D AI-driven maze game using Unity primitives and animation  
 🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4)  
 📁 [View Source](https://drive.google.com/file/d/1kLxz66_dLjPkyIyo-DkG7Vt__NA0ak2E/view?usp=sharingv)
 
----
 
 ### ⚖️ Obesity Classification – Python | Machine Learning
 - Applied ML algorithms to predict obesity levels from 16+ attributes  
 📁 [Download Source Code](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
 
----
 
 ### 🎧 BeatFusion – Java | AI-Powered Game
 - Developing a music-responsive game combining AI and real-time gameplay mechanics
-
----
 
 ### 💎 Vallabhi Jewelers – MEAN Stack | Full-Stack Dev
 - Built a responsive site with live video chat functionality for customer engagement  
