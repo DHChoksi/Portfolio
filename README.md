@@ -1,9 +1,9 @@
 <!-- Game & VR Portfolio Intro -->
 <h1 align="center">Dhruvi H. Choksi</h1>
-<h3 align="center"><i>Game Development | Virtual Reality | Software Engineering</i></h3>
+<h3 align="center"><i>Game Development | Virtual Reality | Augmented Reality | Software Development</i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VR%20Development-Immersive-blueviolet?style=flat-square&logo=unity" />
+  <img src="https://img.shields.io/badge/XR%20Development-Immersive-blueviolet?style=flat-square&logo=unity" />
   <img src="https://img.shields.io/badge/Game%20Design-Unity%20%26%20Unreal-informational?style=flat-square&logo=unrealengine" />
   <img src="https://img.shields.io/badge/Software%20Engineer-Multidisciplinary-critical?style=flat-square&logo=github" />
 </p>
