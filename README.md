@@ -68,7 +68,7 @@ Here you'll find a curated showcase of my expertise in game development, immersi
 ### 🌌 InterGalactic Ranger – Unity | VR
 - Directed end-to-end development of a VR game prototype as part of Directed Research at Cal Poly Pomona.
 - Led a team of 4, integrating immersive mechanics like jetpacking, object interaction, and shooting, using Unity XR for Meta Quest.  
-🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)  
+🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/IGR.mp4)  
 📁 [Source Files](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
 
 ### 🧟 Underworld’s Downfall – Unity | Procedural Top-Down Shooter
