@@ -35,7 +35,7 @@ Here you'll find a curated showcase of my expertise in game development, immersi
 
 - Captured high-fidelity 3D models of aviation equipment using the Artec Leo 3D scanner; optimized high-poly assets in Artec Studio 19 and Blender for real-time use in VR simulations.
 - Authored detailed SOPs and documentation to standardize 3D scanning workflows and tool usage across engineering teams.
-- Developed two fully interactive XR training simulations using Unity and VR best practices to enhance pilot/crew training for 20,000+ end users.
+- Developed two fully interactive XR training simulations using Unity and VR best practices training for 20,000+ end users.
 
 ### 🎮 Project Manager & Level Designer  
 **BooBoo Games**  
