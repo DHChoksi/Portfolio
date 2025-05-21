@@ -104,10 +104,6 @@ Here you'll find a curated showcase of my expertise in game development, immersi
 - Applied data preprocessing, feature selection, and model tuning techniques.  
 📁 [Download Code](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
 
-### BeatFusion – Java | AI-Driven Music Game *(In Progress)*
-- Developing a real-time music game that dynamically adapts gameplay to audio frequencies.
-- Utilizes AI pattern recognition to match beats with visual interactions.
-
 ### Vallabhi Jewelers – MEAN Stack | Full Stack App
 - Created a responsive web app with real-time chat and integrated video calling using MEAN stack technologies.
 - Enabled virtual customer support and live consultation experiences.  
